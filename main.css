@@ -1,7 +1,7 @@
 body{
     width: 80%;
     margin: 0 auto !important;
-    background-color: #0893a7;
+    background-color: #00dfff;
 }
 
 .botaoredefinir{
@@ -10,7 +10,7 @@ body{
 }
 
 .botaoaparencia{
-    background-color: #4CAF50; /* Green */
+    background-color: #d43f3f; /* Green */
     border: none;
     color: white;
     padding: 15px 20px;
@@ -35,7 +35,7 @@ body{
         background-color:red;
 }
 .botaoadd{
-    background-color: #4CAF50; /* Green */
+    background-color: #d43f3f; /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
@@ -59,13 +59,13 @@ h2,p{
 }
 li{
     list-style:none;
-    background:#5dd4e8;
+    background:#f77474;
     width: 20%;
     color: white;
     word-wrap: break-word;
 }
 ul{
-    background-color:#00dfff;
+    background-color:#6fedff;
     overflow:hidden;
     padding:3em;
 }
